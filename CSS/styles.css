@@ -1,0 +1,77 @@
+.welcome {
+    background-image: url(../images/h_img.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.text-center1 {
+    color: white;
+    text-align: center;
+}
+
+.welcome-logo {
+    text-align: center;
+    padding-top: 10%;
+    padding-bottom: 4%;
+}
+
+.mouse-click {
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 10px;
+}
+
+.services {
+    background-image: url(../images/s_image.jpg);
+    text-align: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    margin-top: 55px;
+    padding-top: 100px;
+    padding-bottom: 110px;
+}
+
+.row {
+    text-align: center;
+    margin-top: 30px;
+}
+
+#design-text,
+#development-text {
+    display: none;
+}
+
+.contact-us {
+    background-image: url(../images/c_image.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin-top: 6px;
+}
+
+.formy {
+    padding-bottom: 60px;
+}
+
+.transparent {
+    background-color: transparent;
+}
+
+.transparent::-webkit-input-placeholder {
+    color: #fff;
+    font-size: medium;
+}
+
+.purple-border textarea {
+    border: 1px solid #fff;
+}
+
+.purple-border {
+    padding-top: 20px;
+}
+
+.purple-border .form-control:focus {
+    border: 1px solid #fff;
+    box-shadow: 0 0 0 0.2rem rgba(186, 104, 200, .25);
+}
